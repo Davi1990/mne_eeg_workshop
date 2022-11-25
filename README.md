@@ -3,7 +3,7 @@
 This repo was created as part of [Brainhack Toronto](https://brainhackto.github.io/global-toronto-12-2022/) and includeds tutorial for Working with MNE and EEG-BIDS.
 
 
-![alt text]([https://github.com/GriffithsLab/PyTepFit/blob/main/img/Figure_1.PNG.png](https://brainhackto.github.io/global-toronto-12-2022/images/BrainHack/1x/coverArt2022@0.5x.png)
+![alt text](https://brainhackto.github.io/global-toronto-12-2022/images/BrainHack/1x/coverArt2022@0.5x.png)
 
 
 If you want to run the code locally please follow the instructions:
