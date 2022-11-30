@@ -1,5 +1,5 @@
 matplotlib
-mne
+mne-bids
 nibabel
 nilearn
 numpy
