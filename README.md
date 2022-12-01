@@ -18,3 +18,5 @@ pip install -r requirements.txt
 
 3) Download the required data folder at: https://drive.google.com/drive/folders/1DO-dXfIXzGDzmgcWRMtYvX30ZECYzRYd?usp=sharing
 
+4) Download the raw file at: https://drive.google.com/file/d/1-RSyaXp2Chx0zLuaAnlgK8o1VMo3enx8/view?usp=share_link
+
