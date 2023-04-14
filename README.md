@@ -1,6 +1,6 @@
 # mne_eeg_workshop
 
-This repo was created as part of [Brainhack Toronto](https://brainhackto.github.io/global-toronto-12-2022/) and includeds tutorial for Working with MNE and EEG-BIDS
+This repo was created as part of [Brainhack Toronto](https://brainhackto.github.io/global-toronto-12-2022/) and includeds tutorial for Working with MNE and EEG-BIDS.
 
 ![alt text](https://brainhackto.github.io/global-toronto-12-2022/images/BrainHack/1x/coverArt2022@0.5x.png)
 
